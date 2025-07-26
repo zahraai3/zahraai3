@@ -8,10 +8,12 @@
 ---
 
 ## 🔧 My Projects
-✨ [Odin Recipes](https://github.com/zahraai3/odin-recipes) — Basic HTML project  
+✨ [project-todolist](https://github.com/zahraai3/project-todolist). - simple To-Do-List
+✨ [Calculator](https://github.com/zahraai3/calculator) — Small calculator app 
 ✨ [Rock Paper Scissors](https://github.com/zahraai3/rock.paper.scissors) — Simple JS game  
-✨ [Calculator](https://github.com/zahraai3/calculator) — Small calculator app  
 ✨ [Etch-a-Sketch](https://github.com/zahraai3/Etch-a-Sketch) — Drawing grid project
+✨ [odin-landing-page](https://github.com/zahraai3/odin-landing-page) - Landing page for food delivery 
+✨ [Odin Recipes](https://github.com/zahraai3/odin-recipes) — Basic HTML project 
 
 ---
 
