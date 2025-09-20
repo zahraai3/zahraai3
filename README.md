@@ -34,9 +34,20 @@
 
 ## 🚀 Skills I'm Learning
 
+### 💻 Programming Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![SQLModel](https://img.shields.io/badge/-SQLModel-FF5722?logoColor=white&style=flat)
+
+### 🧠 Soft Skills
+![Leadership](https://img.shields.io/badge/-Leadership-FF6347?style=flat)
+![Communication](https://img.shields.io/badge/-Communication-1E90FF?style=flat)
+![English B2](https://img.shields.io/badge/-English_B2-32CD32?style=flat)
 
 ---
 
