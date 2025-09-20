@@ -8,7 +8,14 @@
 ---
 
 ## 🔧 My Projects
+✨ [Weather_Web](https://github.com/zahraai3/weatherweb) — Basic HTML,css,js,open api project 
+✨ [Restaueant_page](https://github.com/zahraai3/restaunat-page) — Basic HTML,CSS,JAVASCRIPT project 
+✨ [Bank login page](https://github.com/zahraai3/projectforBank) — Simple bank operation page using [HTML,Css,JavaScript] for frontend/ [Python , FastAPI] for backend
+✨ [Tic Tac Toe](https://github.com/zahraai3/tictactoe) — Basic HTML,CSS,JS project 
+✨ [Library](https://github.com/zahraai3/Library) — Basic HTML,CSS,JS project 
 ✨ [project-todolist](https://github.com/zahraai3/project-todolist). - simple To-Do-List
+✨ [Dashboard](https://github.com/zahraai3/Dashboard) — Basic Dashboard with HTML,CSS.JS
+✨ [Log in Page](https://github.com/zahraai3/login) — Basic HTML,CSS,JS project 
 ✨ [Calculator](https://github.com/zahraai3/calculator) — Small calculator app 
 ✨ [Rock Paper Scissors](https://github.com/zahraai3/rock.paper.scissors) — Simple JS game  
 ✨ [Etch-a-Sketch](https://github.com/zahraai3/Etch-a-Sketch) — Drawing grid project
