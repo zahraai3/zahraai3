@@ -1,10 +1,12 @@
 # Hi there 👋 I'm Zahraa
 
 💻 **A beginner web developer**  
-🎨 Learning **HTML, CSS & JavaScript**  
+🎨 Learning **HTML, CSS , JavaScript , Python , FastAPI , SQL , SQLModel , SQLite , Vue.js**  
 🚀 Building **practical projects** to grow my skills  
-🌱 Currently working on [The Odin Project](https://www.theodinproject.com/)
-
+🌱
+- Currently working on [The Odin Project](https://www.theodinproject.com/)
+- Zain Women in Tech programm
+   
 ---
 
 ## 🔧 My Projects
