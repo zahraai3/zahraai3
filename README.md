@@ -1,52 +1,78 @@
-# Hi there 👋 I'm Zahraa
+# Hi 👋 I'm Zahraa  
 
-💻 **A beginner web developer**  
-🎨 Learning **HTML, CSS , JavaScript , Python , FastAPI , SQL , SQLModel , SQLite , Vue.js**  
-🚀 Building **practical projects** to grow my skills  
-🌱
-   
----
+🎯 **Aspiring Front-End Developer** focused on building modern, responsive, and API-driven web applications.
 
-## 🔧 My Projects
-✨ [Weather_Web](https://github.com/zahraai3/weatherweb) — Basic HTML,css,js,open api project 
-✨ [Restaueant_page](https://github.com/zahraai3/restaunat-page) — Basic HTML,CSS,JAVASCRIPT project 
-✨ [Bank login page](https://github.com/zahraai3/projectforBank) — Simple bank operation page using [HTML,Css,JavaScript] for frontend/ [Python , FastAPI] for backend
-✨ [Tic Tac Toe](https://github.com/zahraai3/tictactoe) — Basic HTML,CSS,JS project 
-✨ [Library](https://github.com/zahraai3/Library) — Basic HTML,CSS,JS project 
-✨ [project-todolist](https://github.com/zahraai3/project-todolist). - simple To-Do-List
-✨ [Dashboard](https://github.com/zahraai3/Dashboard) — Basic Dashboard with HTML,CSS.JS
-✨ [Log in Page](https://github.com/zahraai3/login) — Basic HTML,CSS,JS project 
-✨ [Calculator](https://github.com/zahraai3/calculator) — Small calculator app 
-✨ [Rock Paper Scissors](https://github.com/zahraai3/rock.paper.scissors) — Simple JS game  
-✨ [Etch-a-Sketch](https://github.com/zahraai3/Etch-a-Sketch) — Drawing grid project
-✨ [odin-landing-page](https://github.com/zahraai3/odin-landing-page) - Landing page for food delivery 
-✨ [Odin Recipes](https://github.com/zahraai3/odin-recipes) — Basic HTML project 
+💡 I specialize in **React.js** and enjoy transforming UI designs into functional, real-world applications with authentication, routing, and external APIs.
+
+🚀 Currently improving my skills in:
+- Advanced React patterns
+- Redux
+- Axios
+- Writing cleaner and scalable code
 
 ---
 
-## 📫 How to reach me
+## 🛠 Tech Stack
 
-📧 Email: zahraaibrahem241@gmail.com
+### Front-End
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Vue.js • React Router
 
----
+### Back-End (Foundational Knowledge)
+Python • FastAPI • SQL • SQLite • SQLModel
 
-## 🚀 Skills I'm Learning
-
-### 💻 Programming Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
-![SQLModel](https://img.shields.io/badge/-SQLModel-FF5722?logoColor=white&style=flat)
-
-### 🧠 Soft Skills
-![Leadership](https://img.shields.io/badge/-Leadership-FF6347?style=flat)
-![Communication](https://img.shields.io/badge/-Communication-1E90FF?style=flat)
-![English B2](https://img.shields.io/badge/-English_B2-32CD32?style=flat)
+### Tools & Technologies
+Git • GitHub • Vercel • REST APIs • Firebase Authentication • Axios
 
 ---
 
-⭐️ _I’m excited to keep learning and sharing my journey!_
+## 🔥 Featured Projects
+
+### 🎬 Netflix Clone (React + Firebase + TMDB API)
+A full-featured Netflix clone built with React.js featuring:
+- User authentication with Firebase
+- Protected routes
+- Dynamic movie data using TMDB API
+- Fully responsive design
+- Live deployment
+
+🔗 Live Demo: https://netflix-clone-czpefiakc-zahraas-projects-d25a3511.vercel.app/ 
+🔗 Repository: https://github.com/zahraai3/NetflixClone  
+
+---
+
+### 🛍 LilyNotes (Vue.js + Backend Concept)
+An e-commerce concept project built with Vue.js and Python backend:
+- Component-based architecture
+- Product filtering based on perfume notes
+- Structured backend with FastAPI
+- Clean UI layout
+
+🔗 Repository: https://github.com/zahraai3/LilyNotes  
+
+---
+
+### 🌦 Weather Web App
+A weather application using OpenWeather API:
+- Real-time weather data
+- API integration
+- Dynamic UI updates
+- Clean and responsive interface
+
+🔗 Repository: https://github.com/zahraai3/weatherweb  
+
+---
+
+## 📈 Current Focus
+- Strengthening React architecture
+- Learning Redux for state management
+- Improving API handling using Axios
+- Preparing for Front-End Internship opportunities
+
+---
+
+## 📫 Contact
+📧 zahraaibrahem241@gmail.com  
+
+---
+
+⭐ Always building and improving.
