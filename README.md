@@ -1,10 +1,10 @@
-# Hi 👋 I'm Zahraa  
+# Hi  I'm Zahraa  
 
-🎯 **Aspiring Front-End Developer** focused on building modern, responsive, and API-driven web applications.
+ **Aspiring Front-End Developer** focused on building modern, responsive, and API-driven web applications.
 
-💡 I specialize in **React.js** and enjoy transforming UI designs into functional, real-world applications with authentication, routing, and external APIs.
+ I specialize in **React.js** and enjoy transforming UI designs into functional, real-world applications with authentication, routing, and external APIs.
 
-🚀 Currently improving my skills in:
+ Currently improving my skills in:
 - Advanced React patterns
 - Redux
 - Axios
@@ -25,9 +25,9 @@ Git • GitHub • Vercel • REST APIs • Firebase Authentication • Axios
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🎬 Netflix Clone (React + Firebase + TMDB API)
+###  Netflix Clone (React + Firebase + TMDB API)
 A full-featured Netflix clone built with React.js featuring:
 - User authentication with Firebase
 - Protected routes
@@ -62,7 +62,7 @@ A weather application using OpenWeather API:
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 - Strengthening React architecture
 - Learning Redux for state management
 - Improving API handling using Axios
@@ -70,9 +70,9 @@ A weather application using OpenWeather API:
 
 ---
 
-## 📫 Contact
+##  Contact
 📧 zahraaibrahem241@gmail.com  
 
 ---
 
-⭐ Always building and improving.
+ Always building and improving.
