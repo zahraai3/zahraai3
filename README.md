@@ -27,6 +27,23 @@ Git • GitHub • Vercel • REST APIs • Firebase Authentication • Axios
 
 ##  Featured Projects
 
+---
+## HomeHub (React + Firebase + TanStack Query)
+
+A household management web app built with React.js, allowing people who share a home to manage expenses, tasks, and shopping lists together:
+
+* User authentication with Firebase (register, login, join/create a home via invite code)
+* Real-time shared data with Firestore (expenses, tasks, shopping list, activity log)
+* Server state management with TanStack Query (queries, mutations, cache invalidation)
+* Household dashboard with pending items and recent activity
+* Role-based actions (admin vs. member permissions)
+* Fully responsive design
+
+🔗 Live Demo: https://homehub-lac-ten.vercel.app/ 
+🔗 Repository: https://github.com/zahraai3/homehub
+
+---
+
 ###  Netflix Clone (React + Firebase + TMDB API)
 A full-featured Netflix clone built with React.js featuring:
 - User authentication with Firebase
